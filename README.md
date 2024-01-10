@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Icon artwork by りせの ([@risenoooo](https://twitter.com/risenoooo)) on Twitter, source [here](https://www.pixiv.net/en/artworks/112798904).
 <!--
 **StefanoPal/StefanoPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
